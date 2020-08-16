@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2 style="text-align:center">A B I &nbsp;&nbsp; K A R U N A R A T N E</h2>
   <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
+  <a href="https://img.shields.io/badge/Word-Press-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=AD81CE"></a>
 </div>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
