@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/sask1aaa"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/sundxncekid"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abisheaka-karunaratne-4bb0bb1a6/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;
-  <a href="https://www.behance.net/saskiaaa"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_77-behance_104426.svg"></a>&nbsp;&nbsp;
-  <a href="https://dribbble.com/ab1sheaka"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg"></a>
+  <a href="https://www.behance.net/saskiaaa"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_77-behance_104426.svg"></a>&nbsp;
+  <a href="https://dribbble.com/ab1sheaka"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg"></a>&nbsp;
   <a href="https://codepen.io/Sask1a"><img height="30" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png"></a>
 </p>
 <br>
@@ -66,6 +66,11 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
   
 <br>
+
+## 🎵 V I B E &nbsp; C H E C K
+
+  https://open.spotify.com/user/635edy1kwdnd2abjd9d5f7dqv?si=qSuMp03KRcipOt6H4_puCA
+  
 
 
 [![Abi's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Szask1a&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
