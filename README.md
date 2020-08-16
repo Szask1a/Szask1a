@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 
 
 [![Abi's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Szask1a&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
+<br><br>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
