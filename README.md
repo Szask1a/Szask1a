@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 <div align="center">
   <h2 style="text-align:center">A B I &nbsp;&nbsp; K A R U N A R A T N E</h2>
   <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
-  <a href="https://img.shields.io/badge/Word-Press-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=AD81CE"></a>
+  <p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/Made_With-Love-informational?style=for-the-badge&logo=heart&logoColor=white&color=C13B3A&labelColor=EA4560&logoWidth=40&logoHeight=20"
+            alt="UwU"></a>
+  </p>
 </div>
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
 <br>
 
@@ -66,4 +68,6 @@ Here are some ideas to get you started:
 
 
 [![Abi's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Szask1a&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
