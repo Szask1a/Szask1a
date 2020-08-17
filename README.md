@@ -1,4 +1,4 @@
-
+<link href="https://allfont.net/allfont.css?fonts=electroharmonix" rel="stylesheet" type="text/css" />
 
 <!--
 **Szask1a/Szask1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <h2 style="text-align:center">A B I &nbsp;&nbsp; K A R U N A R A T N E </h2>
+  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">A B I &nbsp;&nbsp; K A R U N A R A T N E </h2>
   <p align="center">
     <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
   </p>
