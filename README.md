@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🛠️ T O O L S &nbsp;  & &nbsp;  T E C H 
+## <img src="https://media.giphy.com/media/d7m1aaOto8ZaX1aW9m/giphy.gif" width="40px"> T O O L S &nbsp;  & &nbsp;  T E C H 
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
