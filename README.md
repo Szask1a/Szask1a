@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <img src="https://media.giphy.com/media/d7m1aaOto8ZaX1aW9m/giphy.gif" width="25px"> S K I L L S
+## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> S K I L L S
 
 ![](https://img.shields.io/badge/Word-Press-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=AD81CE)
 ![](https://img.shields.io/badge/Web-Development-informational?style=for-the-badge&logo=javascript&logoColor=white&color=AD81CE)
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <img src="https://media.giphy.com/media/d7m1aaOto8ZaX1aW9m/giphy.gif" width="25px"> T O O L S &nbsp;  & &nbsp;  T E C H 
+## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> T O O L S &nbsp;  & &nbsp;  T E C H 
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
