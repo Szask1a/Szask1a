@@ -71,7 +71,8 @@ Here are some ideas to get you started:
   
 <br>
 
-## 🎵 V I B E &nbsp; C H E C K
+## 🎵 V I B E &nbsp; C H E C K &nbsp; <img src="https://media.giphy.com/media/QBYXXfVNmEFfvghkry/giphy.gif" width="40px">
+
 
   https://open.spotify.com/user/635edy1kwdnd2abjd9d5f7dqv?si=qSuMp03KRcipOt6H4_puCA
   
