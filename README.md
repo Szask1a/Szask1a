@@ -77,6 +77,8 @@ Here are some ideas to get you started:
     <a href="https://open.spotify.com/track/6wXrEPs3ys8rP5qcJLdo8e?si=TU2KHLUMS9OMHW9HPgMwaw">
         <img src="https://i.imgur.com/njgNeVy.png"></a>
   </p>
+  <br>
+  <br>
 
 
 [![Abi's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Szask1a&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
