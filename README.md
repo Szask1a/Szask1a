@@ -73,7 +73,10 @@ Here are some ideas to get you started:
 
 ## 🎵 V I B E &nbsp; C H E C K &nbsp; <img src="https://media.giphy.com/media/QBYXXfVNmEFfvghkry/giphy.gif" width="40px">
 
-<iframe src="https://open.spotify.com/embed/track/6wXrEPs3ys8rP5qcJLdo8e" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p align="center">
+    <a href="https://open.spotify.com/track/6wXrEPs3ys8rP5qcJLdo8e?si=TU2KHLUMS9OMHW9HPgMwaw">
+        <img src="https://i.imgur.com/njgNeVy.png"></a>
+  </p>
 
 
 [![Abi's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Szask1a&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
