@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  <a href="https://twitter.com/sask1aaa"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/sask1aaa"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/Twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/sundxncekid"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/instagram.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abisheaka-karunaratne-4bb0bb1a6/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abisheaka-karunaratne-4bb0bb1a6/"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/linkedin.svg></a>&nbsp;
   <a href="https://www.behance.net/saskiaaa"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/Behance.svg"></a>&nbsp;
   <a href="https://dribbble.com/ab1sheaka"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg"></a>&nbsp;
-<!--   <a href="https://codepen.io/Sask1a"><img height="30" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png"></a> -->
+  <a href="https://codepen.io/Sask1a"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/Codepen.svg"></a>
 </p>
 <br>
 
